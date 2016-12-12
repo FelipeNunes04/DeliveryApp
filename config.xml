@@ -42,6 +42,7 @@
     <splash src="resources/wp8/splash/SplashScreenImage.png" width="768" height="1280"/>
   </platform>
   <preference name="phonegap-version" value="cli-5.4.1"/>
+  <preference name="windows-appx-target" value="uap" />
   <preference name="webviewbounce" value="false"/>
   <preference name="UIWebViewBounce" value="false"/>
   <preference name="DisallowOverscroll" value="true"/>
